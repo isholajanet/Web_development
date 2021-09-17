@@ -1,0 +1,26 @@
+body{
+    margin: 0 auto;
+    padding: 10% 30%
+}
+input[type=text] {
+    background-color: #62529c;
+    border: none;
+    color: #fff;
+    padding: 15px 30px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button{
+    margin: 5px 5px;
+    padding: 10px 20px;
+}
+.operator{
+    margin: 5px 5px;
+    padding: 10px 20px;
+}
+.perform{
+    margin: 5px 10px;
+    padding: 10px 20px;
+}

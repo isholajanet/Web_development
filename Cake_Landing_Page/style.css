@@ -1,0 +1,251 @@
+*{
+    margin: unset;
+
+}
+
+.hero-section{
+    background-color: seagreen;
+    margin: 0 auto;
+    padding: 2rem 6rem;
+    color: white;
+}
+.cake-lover{
+    padding-left: 2rem;
+}
+.sub-hero-section{
+    color: white;
+    align-items: center;
+    display: inline-flex;
+    justify-content: space-between;
+    width: -webkit-fill-available;
+}
+.hero-section-links{
+    display: flex;
+    justify-content: space-between;
+    width: 25rem;
+    padding-left: 4rem;
+}
+.mid-section{
+    margin-top: 6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mid-section-text{
+    line-height: 35px;
+    padding-left: 4rem;
+}
+.mid-section-text p{
+    line-height: 20px;
+}
+.mid-section-text h3{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.mid-section-text h4{
+    font-size: 25px;
+    font-weight: 50;
+}
+.doorstep{
+    font-size: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+}
+.order{
+    margin-top: 2rem;
+    padding: 10px 10px;
+    border-radius: 12px;
+    background-color: indianred;
+    color: white;
+}
+.mid-section-image{
+    margin-left: 2rem;
+}
+.first-column{
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 2rem;
+}
+.square1{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    align-items: center;
+    margin-bottom: 3rem;
+    background-color: white;
+}
+.square2{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    background-color: white;
+}
+.mid-section-image{
+    display: flex;
+    color: black;
+}
+.second-column{
+    text-align: center;
+    padding-top: 2rem;
+    margin-left: 2rem;
+
+}
+.second-section{
+    text-align: center;
+}
+.second-section-heading{
+    text-align: center;
+}
+.second-section-heading h3{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+.second-image{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.second-section-body{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4rem;
+}
+.second-section-second-column{
+    border: 1px solid #000;
+    box-shadow: 0 0 1px 1px;
+    padding-bottom: 8rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    align-items: center;
+    -webkit-border-radius: 8rem;
+    margin: 0 auto;
+
+}
+.second-section-body h3{
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+.second-section{
+    margin: 8rem;
+    align-items: center;
+}
+.third-section{
+    display: flex;
+    padding: 4rem 10rem;
+    background-color: honeydew;
+}
+.third-section-text{
+    margin-top: 4rem;
+    margin-left: 4rem;
+}
+.third-section-text h2{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.third-section-text h3{
+    font-size: 2rem;
+    font-weight: 300;
+    margin-bottom: 1rem;
+}
+.third-section-text h4{
+    margin-bottom: 1rem;
+    font-weight: 200;
+    font-size: 1.2rem;
+}
+.third-section-text p{
+    margin-bottom: 2rem;
+}
+button{
+    padding: 0.5rem 1rem;
+    border-radius: 12px;
+    background-color: honeydew;
+}
+.fourth-section{
+    display: flex;
+    margin-right: 8rem;
+    margin-left: 8rem;
+    justify-content: space-between;
+}
+.fourth-section-text{
+    margin-top: 8rem;
+    padding-left: 8rem;
+
+}
+.fourth-section-text h3{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.fourth-section-text h4{
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-bottom: 1rem;
+}
+.fourth-section-text h5{
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+.fourth-section-image{
+    margin-left: 6rem;
+}
+.fifth-section{
+    display: flex;
+    margin: 6rem;
+    align-items: center;
+    justify-content: space-around;
+}
+.fifth-section img{
+
+}
+.fifth-section-first-column{
+    padding: 2rem;
+}
+.fifth-section-second-column{
+    padding: 2rem;
+}
+.fifth-section-third-column{
+    padding: 2rem;
+}
+.fifth-section h3{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.fifth-section p{
+    text-align: center;
+}
+.image{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.sixth-section{
+    margin: 4rem;
+    padding: 4rem 4rem;
+}
+.sixth-section h3{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+.sixth-section p{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.sixth-section-body{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.last-section{
+    display: flex;
+    padding: 4rem;
+    justify-content: space-around;
+    background-color: honeydew;
+}
+.last-section h3{
+    padding: 1rem 0.1rem;
+
+}
+.last-section p{
+    padding: 0.5rem;
+}

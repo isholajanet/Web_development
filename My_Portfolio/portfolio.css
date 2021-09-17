@@ -1,0 +1,159 @@
+* {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+:root{
+    --primary: #ff5678;
+}
+h1{
+    color: var(--primary);
+}
+.portfolio-container{
+    padding: 2% 10%;
+}
+.header{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+#logo{
+    color: var(--primary);
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.links{
+    width: 25rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.say-hi{
+    background-color: var(--primary);
+    border: unset;
+    color: white;
+    padding: 15px 45px;
+    border-radius: 2px;
+}
+.links a {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+.hero-section{
+    margin-top: 6rem;
+    display: flex;
+    justify-content: space-between;
+}
+.hero-text{
+    width: 25rem;
+}
+.hero-text h4{
+    font-size: 28px;
+    font-weight: bold;
+    margin: unset;
+    text-align: justify;
+}
+.hero-text p{
+    margin: unset;
+    color: rgb(36,36,36);
+    line-height: 23px;
+    text-align: justify;
+}
+.hero-links{
+    margin-top: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+.mid-section{
+    display: flex;
+    margin-top: 8rem;
+    justify-content: space-between;
+    width: 60rem;
+}
+.mid-text{
+    width: 30rem;
+    margin-top: 2rem;
+}
+.mid-text h3{
+    text-align: left;
+}
+.mid-text p{
+    text-align: justify;
+    padding-top: 1rem;
+}
+.mid-image{
+    margin-top: 2rem;
+}
+.mid-text h3{
+    font-size: 28px;
+    font-weight: bold;
+    margin: unset;
+}
+.mid-text p{
+    margin: unset;
+    color: rgb(36,36,36);
+    line-height: 23px;
+}
+.third-section{
+    display: flex;
+    justify-content: space-between;
+    width: 60rem;
+}
+.third-section p{
+    text-align: justify;
+}
+
+.third-section-header{
+    display: flex;
+    margin-top: 6rem;
+    justify-content: space-between;
+    width: 60rem;
+}
+.third-section-header h3{
+    font-size: 28px;
+    font-weight: bold;
+    margin: unset;
+}
+.third-section-header p{
+    margin: unset;
+    line-height: 23px;
+}
+.fourth-section-header{
+    margin-top: 6rem;
+}
+.fourth-section{
+    display: flex;
+    justify-content: space-between;
+    width: 60rem;
+    margin-top: 2rem;
+}
+.skill-set{
+    display: flex;
+    margin-top: 5rem;
+}
+.picture-column{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    width: 50rem;
+}
+.the-skillset{
+    display: flex;
+    margin-top: 5rem;
+    justify-content: space-between;
+    width: 60rem;
+}
+.skillset-text{
+    width: 30rem;
+    justify-content: right;
+}
+.last-section{
+    display: flex;
+    margin-top: 5rem;
+    justify-content: space-between;
+    width: 60rem;
+}
+.last-section-text{
+    width: 30rem;
+    justify-content: right;
+}
